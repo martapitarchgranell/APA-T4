@@ -178,6 +178,7 @@ a ejecutar con la biblioteca `doctest`:
   uso de los estándares marcados por PEP-ocho.
 
 #### Ejecución de los tests unitarios
+<img width="785" height="466" alt="CAPTURA_TASCA4" src="https://github.com/user-attachments/assets/39d8baa1-981e-4626-add8-943afdda31ed" />
 
 Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el
 fichero `aleatorios.py` con la opción *verbosa*, de manera que se muestre el
